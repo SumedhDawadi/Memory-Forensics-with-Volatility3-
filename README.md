@@ -2,6 +2,18 @@
 
 A comprehensive Volatility 3 command reference for Windows memory dump analysis, organized by investigation category.
 
+# Table of Contents
+
+- [Core System Identification & Triage](#core-system-identification--triage)
+- [Hidden Process & Process Analysis](#hidden-process--process-analysis)
+- [Malware & Code Injection Detection](#malware--code-injection-detection)
+- [Network & C2 Artifacts](#network--c2-artifacts)
+- [Persistence, Registry & Service Analysis](#persistence-registry--service-analysis)
+- [Kernel & Rootkit Detection](#kernel--rootkit-detection)
+- [Advanced Scanning & Artifact Extraction](#advanced-scanning--artifact-extraction)
+- [Recommended Investigation Workflow](#recommended-investigation-workflow)
+  
+
 ## Core System Identification & Triage
 
 | Command | Description |
